@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/11279/trunk/Bundles/PHP.tmbundle/Preferences
+END
+Comments.plist
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/3044/trunk/Bundles/PHP.tmbundle/Preferences/Comments.plist
+END
+Add Magic Methods to the Symbol List.tmPreferences
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/7233/trunk/Bundles/PHP.tmbundle/Preferences/Add%20Magic%20Methods%20to%20the%20Symbol%20List.tmPreferences
+END
+Disable spellcheck in require.tmPreferences
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/6898/trunk/Bundles/PHP.tmbundle/Preferences/Disable%20spellcheck%20in%20require.tmPreferences
+END
+Indentation Rules.tmPreferences
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/7242/trunk/Bundles/PHP.tmbundle/Preferences/Indentation%20Rules.tmPreferences
+END
+Symbols List: functions.tmPreferences
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/11279/trunk/Bundles/PHP.tmbundle/Preferences/Symbols%20List:%20functions.tmPreferences
+END
+Completion: includes.tmPreferences
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/7116/trunk/Bundles/PHP.tmbundle/Preferences/Completion:%20includes.tmPreferences
+END
+Completions.tmPreferences
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/7967/trunk/Bundles/PHP.tmbundle/Preferences/Completions.tmPreferences
+END
+Miscellaneous.plist
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/1700/trunk/Bundles/PHP.tmbundle/Preferences/Miscellaneous.plist
+END
+Enable Spellchecking for Docblocks.tmPreferences
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/6614/trunk/Bundles/PHP.tmbundle/Preferences/Enable%20Spellchecking%20for%20Docblocks.tmPreferences
+END

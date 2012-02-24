@@ -1,0 +1,100 @@
+8
+
+dir
+10740
+http://macromates.com/svn/Bundles/trunk/Bundles/GetBundle.tmbundle/Commands
+http://macromates.com/svn/Bundles
+
+
+
+2007-11-02T15:20:30.380480Z
+8389
+bastilian
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+dfb7d73b-c2ec-0310-8fea-fb051d288c6d
+
+Install AutoUpdater.tmCommand
+file
+
+
+
+
+2009-06-16T09:58:30.000000Z
+fcb04008e750a5b3a60c800df81e73fc
+2006-10-17T20:19:03.934476Z
+5505
+duff
+
+List Installed Bundles.tmCommand
+file
+
+
+
+
+2009-06-16T09:58:30.000000Z
+77096cf91a5021f8088166fc373a59ec
+2006-10-17T20:19:03.934476Z
+5505
+duff
+
+Show Bundles on Repository.tmCommand
+file
+
+
+
+
+2009-06-16T09:58:30.000000Z
+ae8bd4062583f39b5b2fa4702c6aca69
+2007-03-04T20:56:10.391973Z
+6719
+duff
+
+Remove AutoUpdater.tmCommand
+file
+
+
+
+
+2009-06-16T09:58:30.000000Z
+9e1b12c3f5a7e31e04973227d0b1c2a6
+2006-10-17T20:19:03.934476Z
+5505
+duff
+
+Update Installed Bundles.tmCommand
+file
+
+
+
+
+2009-06-16T09:58:30.000000Z
+dd0da25fae60057e0ec032daf48e7901
+2007-11-02T15:20:30.380480Z
+8389
+bastilian
+
+Install Bundle.tmCommand
+file
+
+
+
+
+2009-06-16T09:58:30.000000Z
+b48a68c5b9d2cd6c21a8d5294a62db83
+2007-11-02T15:20:30.380480Z
+8389
+bastilian
+

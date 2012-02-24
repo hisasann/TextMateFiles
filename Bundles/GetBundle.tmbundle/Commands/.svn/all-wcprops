@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/Bundles/!svn/ver/8389/trunk/Bundles/GetBundle.tmbundle/Commands
+END
+Install AutoUpdater.tmCommand
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Bundles/!svn/ver/5505/trunk/Bundles/GetBundle.tmbundle/Commands/Install%20AutoUpdater.tmCommand
+END
+List Installed Bundles.tmCommand
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/Bundles/!svn/ver/5505/trunk/Bundles/GetBundle.tmbundle/Commands/List%20Installed%20Bundles.tmCommand
+END
+Show Bundles on Repository.tmCommand
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/Bundles/!svn/ver/6719/trunk/Bundles/GetBundle.tmbundle/Commands/Show%20Bundles%20on%20Repository.tmCommand
+END
+Remove AutoUpdater.tmCommand
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Bundles/!svn/ver/5505/trunk/Bundles/GetBundle.tmbundle/Commands/Remove%20AutoUpdater.tmCommand
+END
+Update Installed Bundles.tmCommand
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/Bundles/!svn/ver/8389/trunk/Bundles/GetBundle.tmbundle/Commands/Update%20Installed%20Bundles.tmCommand
+END
+Install Bundle.tmCommand
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Bundles/!svn/ver/8389/trunk/Bundles/GetBundle.tmbundle/Commands/Install%20Bundle.tmCommand
+END
